@@ -22,12 +22,18 @@
 ![XML](https://img.shields.io/badge/XML-%2300599C.svg?style=for-the-badge&logo=xml&logoColor=white)
 * **Standards & Tools:** ANSI X12, EDIFACT, SAP IDocs, OpenText Contivo, BizMapper, AS2/SFTP
 
-**Data Engineering, Cloud & Analytics**
+**Cloud & Data Engineering**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%23242B3B.svg?style=for-the-badge&logo=snowflake&logoColor=teal)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Data Analytics & Tools**
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 <br/>
 
