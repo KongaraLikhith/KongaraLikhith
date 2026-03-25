@@ -1,8 +1,8 @@
 ## Hi, I'm Likhith Kongara ✨
 
 🎓 MS in Computer Science graduate from the University at Buffalo (SUNY)<br/>
-💼 Former SAP EDI Analyst at OpenText<br/>
-🌱 Currently exploring AI Agents, Microsoft Fabric, and FastAPI<br/>
+💼 Unpaid Volunteer Data Analyst at Community Dreams Foundation & Former SAP EDI Analyst at OpenText<br/>
+🌱 Currently exploring AI Agents (Hugging Face), Microsoft Fabric, and FastAPI<br/>
 📝 I write technical articles on Medium about Apache Airflow, FastAPI, and data engineering<br/>
 🚀 Actively seeking roles in Data Analysis, Integration Engineering, and Software Engineering<br/>
 📫 Reach me at: likhithkongara1715@gmail.com
@@ -41,7 +41,7 @@
 
 ### ✍️ Technical Writing:
 I regularly share my learnings and tutorials on Medium. 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-username)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@likhith0715)
 
 <br/>
 
@@ -53,9 +53,3 @@ I regularly share my learnings and tutorials on Medium.
 * **Apache Airflow 3 Certification**
 * **Hugging Face: AI Agents**
 * **Postman: API Fundamentals Student Expert**
-
-<br/>
-
-### 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KongaraLikhith&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/KongaraLikhith)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KongaraLikhith&theme=transparent&hide_border=true&layout=compact)](https://github.com/KongaraLikhith)
