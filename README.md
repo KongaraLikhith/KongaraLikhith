@@ -1,8 +1,8 @@
 ## Hi, I'm Likhith Kongara ✨
 
 🎓 MS in Computer Science graduate from the University at Buffalo (SUNY)<br/>
-💼 Unpaid Volunteer Data Analyst at Community Dreams Foundation & Former SAP EDI Analyst at OpenText<br/>
-🌱 Currently exploring AI Agents (Hugging Face), Microsoft Fabric, and FastAPI<br/>
+💼 Former SAP EDI Analyst at OpenText<br/>
+🌱 Currently exploring AI Agents, Microsoft Fabric, and FastAPI<br/>
 📝 I write technical articles on Medium about Apache Airflow, FastAPI, and data engineering<br/>
 🚀 Actively seeking roles in Data Analysis, Integration Engineering, and Software Engineering<br/>
 📫 Reach me at: likhithkongara1715@gmail.com
