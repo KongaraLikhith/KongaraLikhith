@@ -47,9 +47,6 @@ I regularly share my learnings and tutorials on Medium.
 
 ### 🏆 Certifications:
 * **Google Data Analytics Professional Certificate**
-* **Google IT Automation with Python**
-* **Microsoft Power BI Data Analyst**
-* **Snowflake Data Engineering Professional**
 * **Apache Airflow 3 Certification**
 * **Hugging Face: AI Agents**
 * **Postman: API Fundamentals Student Expert**
