@@ -2,7 +2,8 @@
 
 🎓 MS in Computer Science graduate from the University at Buffalo (SUNY)<br/>
 💼 Former SAP EDI Analyst at OpenText<br/>
-🌱 Currently exploring AI Agents (Hugging Face), Microsoft Fabric, and FastAPI<br/>
+🌱 Currently exploring AI Agents, Microsoft Fabric, and FastAPI<br/>
+📝 I write technical articles on Medium about Apache Airflow, FastAPI, and data engineering<br/>
 🚀 Actively seeking roles in Data Analysis, Integration Engineering, and Software Engineering<br/>
 📫 Reach me at: likhithkongara1715@gmail.com
 
@@ -10,11 +11,12 @@
 
 ### 💻 Tech Stack & Tools:
 
-**Languages & Databases**
+**Languages, Databases & APIs**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **EDI & ERP**
 ![SAP](https://img.shields.io/badge/SAP-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
@@ -34,6 +36,12 @@
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+<br/>
+
+### ✍️ Technical Writing:
+I regularly share my learnings and tutorials on Medium. 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-username)
 
 <br/>
 
