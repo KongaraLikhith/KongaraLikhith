@@ -1,68 +1,32 @@
-# Likhith Kongara - Data Engineering Portfolio
+## Hi, I'm Likhith Kongara ✨
 
-## 👋 About Me
-Data Engineer passionate about building scalable data pipelines, ETL processes, and cloud-based data solutions. Experienced in Apache Airflow, Python, SQL, and cloud platforms.
+🎓 Master of Science in Computer Science graduate from the University at Buffalo (SUNY)<br/>
+🌱 Currently exploring AI Agents (Hugging Face), Microsoft Fabric, and FastAPI<br/>
+📝 I write technical articles on Medium about Apache Airflow, FastAPI, and data engineering<br/>
+🚀 Actively seeking roles in Data Analysis, Integration Engineering, and Software Engineering<br/>
+📫 Reach me at: likhithkongara1715@gmail.com
 
-## 🚀 Projects
+<br/>
 
-### 💳 Fraud Detection Pipeline
-**Technologies:** Apache Airflow, Python, Scikit-learn, SQLite, PostgreSQL, Docker
+### 💻 Tech Stack & Tools:
 
-**Features:**
-- Implemented both rule-based and machine learning fraud detection
-- Automated pipeline with Airflow orchestration
-- Data quality checks and validation framework
-- Containerized deployment with Docker
-- SQLite database integration for results storage
+**Languages & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Key Components:**
-- Rule-based detection with business logic
-- ML model training and prediction
-- Data validation and quality monitoring
-- Automated alerting system
+**Frameworks & Libraries**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-[**View Code →**](https://github.com/KongaraLikhith/Fraud-Detection-pipeline)
+**Data Engineering & Automation**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+<br/>
 
-### 🚕 NYC Taxi ETL Pipeline
-**Technologies:** Azure, Apache Airflow, Snowflake, Python, Docker
-
-**Features:**
-- End-to-end cloud data pipeline on Azure
-- Data ingestion and processing with Airflow
-- Snowflake data warehousing integration
-- Optimized data modeling for analytics
-- Containerized environment with Docker
-
-**Key Components:**
-- Data extraction from multiple sources
-- Transformations and data cleaning
-- Loading to Snowflake data warehouse
-- Orchestration and monitoring
-
-[**View Code →**](https://github.com/KongaraLikhith/your-nyc-taxi-repo)
-
-## 🛠️ Technical Skills
-
-**Data Engineering:**
-- ETL/ELT Pipelines | Data Modeling | Data Warehousing | Data Orchestration
-
-**Cloud & Tools:**
-- **Cloud:** Azure, Snowflake
-- **Orchestration:** Apache Airflow
-- **Containers:** Docker, Docker Compose
-- **Databases:** SQLite, PostgreSQL, Snowflake
-
-**Programming:**
-- **Languages:** Python, SQL, Bash
-- **Libraries:** Pandas, Scikit-learn, SQLAlchemy
-
-## 📫 Connect With Me
-- **LinkedIn:** [https://www.linkedin.com/in/likhith-kongara-049b87212/](https://www.linkedin.com/in/likhith-kongara-049b87212/)
-- **Email:** likhith0715@gmail.com
-- **GitHub:** [https://github.com/KongaraLikhith](https://github.com/KongaraLikhith)
-
----
-
-*⭐ Star my repositories if you find them interesting!*
+### 📊 GitHub Stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KongaraLikhith&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/KongaraLikhith)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KongaraLikhith&theme=transparent&hide_border=true&layout=compact)](https://github.com/KongaraLikhith)
