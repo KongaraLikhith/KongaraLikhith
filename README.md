@@ -1,7 +1,6 @@
 ## Hi, I'm Likhith Kongara ✨
 
 🎓 MS in Computer Science graduate from the University at Buffalo (SUNY)<br/>
-💼 Former SAP EDI Analyst at OpenText<br/>
 🌱 Currently exploring AI Agents, Microsoft Fabric, and FastAPI<br/>
 📝 I write technical articles on Medium about Apache Airflow, FastAPI, and data engineering<br/>
 🚀 Actively seeking roles in Data Analysis, Integration Engineering, and Software Engineering<br/>
