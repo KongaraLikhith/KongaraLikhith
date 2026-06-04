@@ -24,7 +24,8 @@
 * **Standards & Tools:** ANSI X12, EDIFACT, SAP IDocs, OpenText Contivo, BizMapper, AS2/SFTP
 
 **Cloud & Data Engineering**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-%23669DF6.svg?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%23242B3B.svg?style=for-the-badge&logo=snowflake&logoColor=teal)
