@@ -26,6 +26,7 @@
 **Cloud & Data Engineering**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%23242B3B.svg?style=for-the-badge&logo=snowflake&logoColor=teal)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -39,7 +40,7 @@
 <br/>
 
 ### ✍️ Technical Writing:
-I regularly share my learnings and tutorials on Medium. 
+I regularly share my learnings and tutorials on Medium. 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@likhith0715)
 
 <br/>
